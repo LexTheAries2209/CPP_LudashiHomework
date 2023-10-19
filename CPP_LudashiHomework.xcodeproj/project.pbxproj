@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		584118352AE0FBE6007DC1F6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 584118342AE0FBE6007DC1F6 /* main.cpp */; };
+		584118412AE0FDDE007DC1F6 /* OpenJudge1000.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5841183F2AE0FDDE007DC1F6 /* OpenJudge1000.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,8 @@
 
 /* Begin PBXFileReference section */
 		584118312AE0FBE6007DC1F6 /* CPP_LudashiHomework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_LudashiHomework; sourceTree = BUILT_PRODUCTS_DIR; };
-		584118342AE0FBE6007DC1F6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5841183D2AE0FC60007DC1F6 /* Runnianjisuan.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Runnianjisuan.cpp; sourceTree = "<group>"; };
+		5841183F2AE0FDDE007DC1F6 /* OpenJudge1000.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge1000.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +58,8 @@
 		584118332AE0FBE6007DC1F6 /* CPP_LudashiHomework */ = {
 			isa = PBXGroup;
 			children = (
-				584118342AE0FBE6007DC1F6 /* main.cpp */,
+				5841183D2AE0FC60007DC1F6 /* Runnianjisuan.cpp */,
+				5841183F2AE0FDDE007DC1F6 /* OpenJudge1000.cpp */,
 			);
 			path = CPP_LudashiHomework;
 			sourceTree = "<group>";
@@ -119,7 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				584118352AE0FBE6007DC1F6 /* main.cpp in Sources */,
+				584118412AE0FDDE007DC1F6 /* OpenJudge1000.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,6 +247,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -253,6 +256,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
