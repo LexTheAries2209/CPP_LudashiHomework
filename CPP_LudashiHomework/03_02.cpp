@@ -21,8 +21,8 @@ int  main() {
         a /= 10;
         b++;
     }
-    while(a != 0) {
+    while(a != 0) ;
         cout << "\n该整数的位数为: " << b << endl;
-    }
+    
       return 0;
 }
