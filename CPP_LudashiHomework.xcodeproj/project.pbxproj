@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		587CE46D2AE2223A00EC8B49 /* 03_02.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 587CE46C2AE2223A00EC8B49 /* 03_02.cpp */; };
+		587CE46F2AE226D700EC8B49 /* 03_03.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 587CE46E2AE226D700EC8B49 /* 03_03.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +28,7 @@
 		5841183F2AE0FDDE007DC1F6 /* OpenJudge1000.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge1000.cpp; sourceTree = "<group>"; };
 		587CE46A2AE21E0200EC8B49 /* 03_01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_01.cpp; sourceTree = "<group>"; };
 		587CE46C2AE2223A00EC8B49 /* 03_02.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_02.cpp; sourceTree = "<group>"; };
+		587CE46E2AE226D700EC8B49 /* 03_03.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_03.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 				5841183F2AE0FDDE007DC1F6 /* OpenJudge1000.cpp */,
 				587CE46A2AE21E0200EC8B49 /* 03_01.cpp */,
 				587CE46C2AE2223A00EC8B49 /* 03_02.cpp */,
+				587CE46E2AE226D700EC8B49 /* 03_03.cpp */,
 			);
 			path = CPP_LudashiHomework;
 			sourceTree = "<group>";
@@ -125,7 +127,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				587CE46D2AE2223A00EC8B49 /* 03_02.cpp in Sources */,
+				587CE46F2AE226D700EC8B49 /* 03_03.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

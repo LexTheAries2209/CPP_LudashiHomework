@@ -10,7 +10,7 @@ using namespace std;
 int  main()
 {
     int a,b;
-    cout << "请输入两个数字，用空格间隔: " ;
+    cout << "请输入两个数字，用空格间隔: ";
     cin >> a >> b;
     cout << a+b << endl;
     return 0;

@@ -7,21 +7,21 @@
 
 #include <stdio.h>
 #include <iostream>
-using namespace std ;
+using namespace std;
 
 int main() 
 {
-    int a,b ;
-    cout << "请输入要比较的两个整数A和B，用空格间隔: " ;
-    cin >> a >> b ;
+    int a,b;
+    cout << "请输入要比较的两个整数A和B，用空格间隔: ";
+    cin >> a >> b;
     if (a == b)  {
-        cout << "A=B" << endl ;
+        cout << "A=B" << endl;
     }
     else if (a < b) {
-        cout << "A<B" << endl ;
+        cout << "A<B" << endl;
     }
     else if (a > b) {
-        cout << "A>B" << endl ;
+        cout << "A>B" << endl;
     }
-    return 0 ;
+    return 0;
 }
