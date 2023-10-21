@@ -27,8 +27,6 @@ int  main() {
             if(k == 1)
                 cout << i << " ";
         }
-        
-        
     }
     return 0;
 }

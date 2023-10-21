@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		582DFEDD2AE2ECF4004B7314 /* 03_05.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 582DFEDC2AE2ECF4004B7314 /* 03_05.cpp */; };
+		5869EEEF2AE39BCE00A4A297 /* 03_06.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5869EEEE2AE39BCE00A4A297 /* 03_06.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +27,7 @@
 		584118312AE0FBE6007DC1F6 /* CPP_LudashiHomework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_LudashiHomework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5841183D2AE0FC60007DC1F6 /* Runnianjisuan.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Runnianjisuan.cpp; sourceTree = "<group>"; };
 		5841183F2AE0FDDE007DC1F6 /* OpenJudge1000.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge1000.cpp; sourceTree = "<group>"; };
+		5869EEEE2AE39BCE00A4A297 /* 03_06.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_06.cpp; sourceTree = "<group>"; };
 		587CE46A2AE21E0200EC8B49 /* 03_01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_01.cpp; sourceTree = "<group>"; };
 		587CE46C2AE2223A00EC8B49 /* 03_02.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_02.cpp; sourceTree = "<group>"; };
 		587CE46E2AE226D700EC8B49 /* 03_03.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_03.cpp; sourceTree = "<group>"; };
@@ -70,6 +71,7 @@
 				587CE46E2AE226D700EC8B49 /* 03_03.cpp */,
 				587CE4702AE22A7500EC8B49 /* 03_04.cpp */,
 				582DFEDC2AE2ECF4004B7314 /* 03_05.cpp */,
+				5869EEEE2AE39BCE00A4A297 /* 03_06.cpp */,
 			);
 			path = CPP_LudashiHomework;
 			sourceTree = "<group>";
@@ -131,7 +133,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				582DFEDD2AE2ECF4004B7314 /* 03_05.cpp in Sources */,
+				5869EEEF2AE39BCE00A4A297 /* 03_06.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
