@@ -8,22 +8,28 @@
 #include <iostream>
 using namespace std;
 
-int fibonacci(int n) {
-  if (n <= 2) return 1;
-  return fibonacci(n-1) + fibonacci(n-2);
+int func(int n){
+    if(n <= 2) return 1;
+    return func(n-1) + func(n-2);
 }
 
 int main() {
-  int n;
-  cin >> n;
+    int n;
+    cout << "请输入要测试的行数n和要测试的第a项，以换行间隔：" << endl;
+    cin >> n;
+    int results[n];
   
-  while(n--) {
-    int a;
-    cin >> a;
+    for(int i = 0; i < n; i++) {
+        int a;
+        cin >> a;
+        results[i] = func(a);
+    }
     
-    int result = fibonacci(a);
-    cout << result << endl;
-  }
+    cout << endl;
+    
+    for(int i = 0; i < n; i++) {
+        cout << results[i] << endl;
+    }
 
-  return 0;
+    return 0;
 }
