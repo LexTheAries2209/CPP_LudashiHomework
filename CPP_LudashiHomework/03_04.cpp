@@ -5,7 +5,6 @@
 //  Created by 吴坤城 on 10/20/23.
 //
 
-#include <stdio.h>
 #include <iostream>
 using namespace std;
 

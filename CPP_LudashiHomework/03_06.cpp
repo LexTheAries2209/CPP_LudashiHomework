@@ -5,7 +5,6 @@
 //  Created by 吴坤城 on 10/21/23.
 //
 
-#include <stdio.h>
 #include <iostream>
 #include <math.h>
 #include <iomanip>
