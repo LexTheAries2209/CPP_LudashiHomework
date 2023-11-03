@@ -21,12 +21,18 @@ void func(int n, char a, char b, char c) {
 }
 
 int main() {
-  int n;
-  string a, b, c;
+    int n;
+    string a, b, c;
+    
     cout << "请依次输入圆盘数量和三个柱子的名称，以空格间隔：" ;
-  cin >> n >> a >> b >> c;
-
-  func(n, a[0], b[0], c[0]);
+    cin >> n >> a >> b >> c;
+    
+    if(cin.fail() || n <= 0) {
+        cout << "n必须为正整数！" << endl;
+        return 0;
+      }
+    
+    func(n, a[0], b[0], c[0]);
   
-  return 0;
+    return 0;
 }
