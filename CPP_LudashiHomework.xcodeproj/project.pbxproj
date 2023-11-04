@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		588937E42AF4980100917A71 /* OpenJudge2753.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 588937E12AF4940A00917A71 /* OpenJudge2753.cpp */; };
+		585EA5CC2AF4A7DF00A3645C /* OpenJudge2753-1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 585EA5CB2AF4A7DF00A3645C /* OpenJudge2753-1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +27,7 @@
 		584118312AE0FBE6007DC1F6 /* CPP_LudashiHomework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_LudashiHomework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5841183D2AE0FC60007DC1F6 /* Runnianjisuan.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Runnianjisuan.cpp; sourceTree = "<group>"; };
 		5841183F2AE0FDDE007DC1F6 /* OpenJudge1000.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge1000.cpp; sourceTree = "<group>"; };
+		585EA5CB2AF4A7DF00A3645C /* OpenJudge2753-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "OpenJudge2753-1.cpp"; sourceTree = "<group>"; };
 		5869EEEE2AE39BCE00A4A297 /* 03_06.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_06.cpp; sourceTree = "<group>"; };
 		587A162A2AF48D800035BC8B /* OpenJudge4147.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge4147.cpp; sourceTree = "<group>"; };
 		587CE46A2AE21E0200EC8B49 /* 03_01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_01.cpp; sourceTree = "<group>"; };
@@ -78,6 +79,7 @@
 				58F8EB332AE66DBF00B6387A /* 03_07.cpp */,
 				587A162A2AF48D800035BC8B /* OpenJudge4147.cpp */,
 				588937E12AF4940A00917A71 /* OpenJudge2753.cpp */,
+				585EA5CB2AF4A7DF00A3645C /* OpenJudge2753-1.cpp */,
 			);
 			path = CPP_LudashiHomework;
 			sourceTree = "<group>";
@@ -139,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				588937E42AF4980100917A71 /* OpenJudge2753.cpp in Sources */,
+				585EA5CC2AF4A7DF00A3645C /* OpenJudge2753-1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
