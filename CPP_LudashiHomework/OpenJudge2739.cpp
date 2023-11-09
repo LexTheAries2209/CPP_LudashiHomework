@@ -11,17 +11,14 @@
 using namespace std;
 
 int main() {
-    string a, b;
-    cout << "请输入底数a和指数b，以空格间隔：";
-    cin >> a >> b;
+    long double a, b,x1;
+    //cout << "请输入底数a和指数b，以换行间隔：";
+    cin >> a;
+    cin >> b;
     
-    int a1 = stoi(a);
-    int b1 = stoi(b);
-    
-    int x = log(b1) / log(a1);  // 计算x
-    
-    cout << x << endl;
+    double x = log(b) / log(a);
+    x1 = floor(x);
+    cout << x1 << endl;
     
     return 0;
 }
-
