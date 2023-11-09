@@ -11,7 +11,7 @@ using namespace std;
 
 string Func(const string& str) {
     string result = str;
-
+    //cout << "请输入要转换大小写的英文：";
     for (char& c : result) {
         if (c >= 'A' && c <= 'Z') {
             c += 32;
