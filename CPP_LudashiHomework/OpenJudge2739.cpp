@@ -11,7 +11,7 @@
 using namespace std;
 
 int main() {
-    long double a, b,x1;
+    long double a, b, x1;
     //cout << "请输入底数a和指数b，以换行间隔：";
     cin >> a;
     cin >> b;
