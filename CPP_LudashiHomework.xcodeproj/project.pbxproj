@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5855E9192AFDCA6300831765 /* OpenJudge2746.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5855E9182AFDCA6300831765 /* OpenJudge2746.cpp */; };
+		5855E9222AFDDCCD00831765 /* OpenJudge2754-1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5855E91E2AFDD8FA00831765 /* OpenJudge2754-1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +31,9 @@
 		5855E9152AFCE4E200831765 /* OpenJudge2715.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge2715.cpp; sourceTree = "<group>"; };
 		5855E9182AFDCA6300831765 /* OpenJudge2746.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge2746.cpp; sourceTree = "<group>"; };
 		5855E91A2AFDCA8F00831765 /* OpenJudge2689.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge2689.cpp; sourceTree = "<group>"; };
+		5855E91C2AFDD2BF00831765 /* OpenJudge2754.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge2754.cpp; sourceTree = "<group>"; };
+		5855E91E2AFDD8FA00831765 /* OpenJudge2754-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "OpenJudge2754-1.cpp"; sourceTree = "<group>"; };
+		5855E9202AFDDAE500831765 /* OpenJudge2715-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "OpenJudge2715-1.cpp"; sourceTree = "<group>"; };
 		585EA5CB2AF4A7DF00A3645C /* OpenJudge2753-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "OpenJudge2753-1.cpp"; sourceTree = "<group>"; };
 		5869EEEE2AE39BCE00A4A297 /* 03_06.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_06.cpp; sourceTree = "<group>"; };
 		587A162A2AF48D800035BC8B /* OpenJudge4147.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge4147.cpp; sourceTree = "<group>"; };
@@ -86,8 +89,11 @@
 				585EA5CB2AF4A7DF00A3645C /* OpenJudge2753-1.cpp */,
 				5855E9102AFCC93700831765 /* OpenJudge2739.cpp */,
 				5855E9152AFCE4E200831765 /* OpenJudge2715.cpp */,
+				5855E9202AFDDAE500831765 /* OpenJudge2715-1.cpp */,
 				5855E91A2AFDCA8F00831765 /* OpenJudge2689.cpp */,
 				5855E9182AFDCA6300831765 /* OpenJudge2746.cpp */,
+				5855E91C2AFDD2BF00831765 /* OpenJudge2754.cpp */,
+				5855E91E2AFDD8FA00831765 /* OpenJudge2754-1.cpp */,
 			);
 			path = CPP_LudashiHomework;
 			sourceTree = "<group>";
@@ -149,7 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5855E9192AFDCA6300831765 /* OpenJudge2746.cpp in Sources */,
+				5855E9222AFDDCCD00831765 /* OpenJudge2754-1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
