@@ -1,8 +1,8 @@
 //
-//  Openjduge2689.cpp
+//  OpenJudge2689.cpp
 //  CPP_LudashiHomework
 //
-//  Created by 吴坤城 on 11/9/23.
+//  Created by 吴坤城 on 11/10/23.
 //
 
 #include <iostream>
@@ -32,3 +32,4 @@ int main() {
     
     return 0;
 }
+
