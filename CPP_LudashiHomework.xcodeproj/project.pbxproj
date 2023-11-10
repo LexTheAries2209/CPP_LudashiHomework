@@ -7,9 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5855E9172AFCE4E200831765 /* OpenJudge2715.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5855E9152AFCE4E200831765 /* OpenJudge2715.cpp */; };
 		5855E9192AFDCA6300831765 /* OpenJudge2746.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5855E9182AFDCA6300831765 /* OpenJudge2746.cpp */; };
-		5855E91B2AFDCA8F00831765 /* OpenJudge2689.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5855E91A2AFDCA8F00831765 /* OpenJudge2689.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -151,9 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5855E91B2AFDCA8F00831765 /* OpenJudge2689.cpp in Sources */,
 				5855E9192AFDCA6300831765 /* OpenJudge2746.cpp in Sources */,
-				5855E9172AFCE4E200831765 /* OpenJudge2715.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
