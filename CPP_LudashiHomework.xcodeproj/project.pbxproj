@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5855E9222AFDDCCD00831765 /* OpenJudge2754-1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5855E91E2AFDD8FA00831765 /* OpenJudge2754-1.cpp */; };
+		5825BFE02B157A6B00E1EC0B /* 05_02.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5825BFDF2B157A6B00E1EC0B /* 05_02.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5825BFDD2B15735800E1EC0B /* 05_01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 05_01.cpp; sourceTree = "<group>"; };
+		5825BFDF2B157A6B00E1EC0B /* 05_02.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 05_02.cpp; sourceTree = "<group>"; };
 		582DFEDC2AE2ECF4004B7314 /* 03_05.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_05.cpp; sourceTree = "<group>"; };
 		584118312AE0FBE6007DC1F6 /* CPP_LudashiHomework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_LudashiHomework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5841183D2AE0FC60007DC1F6 /* Runnianjisuan.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Runnianjisuan.cpp; sourceTree = "<group>"; };
@@ -94,6 +96,8 @@
 				5855E9182AFDCA6300831765 /* OpenJudge2746.cpp */,
 				5855E91C2AFDD2BF00831765 /* OpenJudge2754.cpp */,
 				5855E91E2AFDD8FA00831765 /* OpenJudge2754-1.cpp */,
+				5825BFDD2B15735800E1EC0B /* 05_01.cpp */,
+				5825BFDF2B157A6B00E1EC0B /* 05_02.cpp */,
 			);
 			path = CPP_LudashiHomework;
 			sourceTree = "<group>";
@@ -155,7 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5855E9222AFDDCCD00831765 /* OpenJudge2754-1.cpp in Sources */,
+				5825BFE02B157A6B00E1EC0B /* 05_02.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
