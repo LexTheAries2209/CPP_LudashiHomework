@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		586F5D3B2B16FF2D002EE9BD /* 05_04.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 586F5D3A2B16FF2D002EE9BD /* 05_04.cpp */; };
+		584BC0A52B1C4549003632B2 /* 05_05.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 584BC0A42B1C4549003632B2 /* 05_05.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +29,7 @@
 		584118312AE0FBE6007DC1F6 /* CPP_LudashiHomework */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPP_LudashiHomework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5841183D2AE0FC60007DC1F6 /* Runnianjisuan.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Runnianjisuan.cpp; sourceTree = "<group>"; };
 		5841183F2AE0FDDE007DC1F6 /* OpenJudge1000.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge1000.cpp; sourceTree = "<group>"; };
+		584BC0A42B1C4549003632B2 /* 05_05.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 05_05.cpp; sourceTree = "<group>"; };
 		5855E9102AFCC93700831765 /* OpenJudge2739.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge2739.cpp; sourceTree = "<group>"; };
 		5855E9152AFCE4E200831765 /* OpenJudge2715.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge2715.cpp; sourceTree = "<group>"; };
 		5855E9182AFDCA6300831765 /* OpenJudge2746.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OpenJudge2746.cpp; sourceTree = "<group>"; };
@@ -102,6 +103,7 @@
 				5825BFDF2B157A6B00E1EC0B /* 05_02.cpp */,
 				586B140C2B15B33D000CC57D /* 05_03.cpp */,
 				586F5D3A2B16FF2D002EE9BD /* 05_04.cpp */,
+				584BC0A42B1C4549003632B2 /* 05_05.cpp */,
 			);
 			path = CPP_LudashiHomework;
 			sourceTree = "<group>";
@@ -163,7 +165,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				586F5D3B2B16FF2D002EE9BD /* 05_04.cpp in Sources */,
+				584BC0A52B1C4549003632B2 /* 05_05.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
