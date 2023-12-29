@@ -7,31 +7,36 @@
 
 #include <forward_list>
 #include <iostream>
+using namespace std;
 
 template <typename T>
-void filterList(std::forward_list<T>& list, T threshold) {
+void filterList(forward_list<T>& list, T threshold) {
     list.remove_if([threshold](const T& value) { return value < threshold; });
 }
 
 int main() {
-    std::forward_list<int> list;
+    forward_list<int> list;
     int threshold;
-
-    std::cout << "Enter the threshold: ";
-    std::cin >> threshold;
-
-    std::cout << "Enter numbers (non-number to end): ";
+    
+    //读取阈值
+    cout << "输入阈值: ";
+    cin >> threshold;
+    
+    //读取元素
+    cout << "输入元素，以空格间隔，以End结尾: ";
     int number;
-    while (std::cin >> number) {
+    while (cin >> number) {
         list.push_front(number);
     }
-
+    
+    //去掉小于阈值的数字
     filterList(list, threshold);
-
+    
+    //输出元素
     for (int num : list) {
-        std::cout << num << " ";
+        cout << num << " ";
     }
-    std::cout << std::endl;
+    cout << endl;
 
     return 0;
 }
