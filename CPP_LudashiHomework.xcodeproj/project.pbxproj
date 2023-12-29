@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		584BC0A52B1C4549003632B2 /* 05_05.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 584BC0A42B1C4549003632B2 /* 05_05.cpp */; };
+		58679F032B3EF62B005C6A4F /* 08_01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58679F022B3EF62B005C6A4F /* 08_01.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +38,7 @@
 		5855E91E2AFDD8FA00831765 /* OpenJudge2754-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "OpenJudge2754-1.cpp"; sourceTree = "<group>"; };
 		5855E9202AFDDAE500831765 /* OpenJudge2715-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "OpenJudge2715-1.cpp"; sourceTree = "<group>"; };
 		585EA5CB2AF4A7DF00A3645C /* OpenJudge2753-1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "OpenJudge2753-1.cpp"; sourceTree = "<group>"; };
+		58679F022B3EF62B005C6A4F /* 08_01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 08_01.cpp; sourceTree = "<group>"; };
 		5869EEEE2AE39BCE00A4A297 /* 03_06.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 03_06.cpp; sourceTree = "<group>"; };
 		586B140C2B15B33D000CC57D /* 05_03.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 05_03.cpp; sourceTree = "<group>"; };
 		586F5D3A2B16FF2D002EE9BD /* 05_04.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 05_04.cpp; sourceTree = "<group>"; };
@@ -104,6 +105,7 @@
 				586B140C2B15B33D000CC57D /* 05_03.cpp */,
 				586F5D3A2B16FF2D002EE9BD /* 05_04.cpp */,
 				584BC0A42B1C4549003632B2 /* 05_05.cpp */,
+				58679F022B3EF62B005C6A4F /* 08_01.cpp */,
 			);
 			path = CPP_LudashiHomework;
 			sourceTree = "<group>";
@@ -165,7 +167,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				584BC0A52B1C4549003632B2 /* 05_05.cpp in Sources */,
+				58679F032B3EF62B005C6A4F /* 08_01.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
